@@ -4,7 +4,7 @@
 The **Memories Application** is a social media platform that enables users to create, edit, and delete posts while interacting with content shared by others. It offers features such as liking, commenting, searching, and post recommendations, providing a seamless and engaging experience for users.
 
 ## Live Demo
-You can view the live demo of this project here: [Live Demo](https://memories-application-react.netlify.app/posts) 
+You can view the live demo of this project here: [Live Demo](https://memories-application-react.netlify.app/) 
 
 ## Key Features
 - **Post Creation and Management**: Users can create, edit, and delete their posts.
